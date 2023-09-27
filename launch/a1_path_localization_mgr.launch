@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="a1_path_manager" type="a1_path_manager" name="a1_path_manager" output="screen" />
+  <!-- <node pkg="a1_path_manager" type="a1_localization_converter" name="a1_localization_converter" output="screen" /> -->
+
+
+</launch>
